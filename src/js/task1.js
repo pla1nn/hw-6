@@ -10,7 +10,7 @@ function submitForm(e) {
     formData.name = document.getElementById('name').value;
     formData.email = document.getElementById('email').value;
     formData.message = document.getElementById('message').value;
-    // console.log(formData);
+    // conso
 
     const success = document.getElementById('success');
 
